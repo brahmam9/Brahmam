@@ -1,5 +1,9 @@
 package abc;
 
-public class Sum {
-
+public class Sum 
+{
+	public void sum()
+	{
+		
+	}
 }
